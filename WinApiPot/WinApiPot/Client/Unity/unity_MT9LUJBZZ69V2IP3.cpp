@@ -86,6 +86,12 @@
 #include "C:\Users\wangh\source\ww\WinApiPot\WinApiPot\Client\CPlayerAttackDown.cpp"
 
 
+#include "C:\Users\wangh\source\ww\WinApiPot\WinApiPot\Client\CPlayerHit.cpp"
+
+
+#include "C:\Users\wangh\source\ww\WinApiPot\WinApiPot\Client\CPlayerHitUpper.cpp"
+
+
 #include "C:\Users\wangh\source\ww\WinApiPot\WinApiPot\Client\CPlayerIdle.cpp"
 
 
